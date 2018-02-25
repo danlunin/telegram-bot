@@ -1,0 +1,195 @@
+@charset "windows-1251";
+
+.search_adv {cursor: default}
+.search_adv * {margin: 0; padding: 0}
+.search_adv form {background: #f2f2f2; position: relative; margin-bottom: 30px; padding: 20px}
+   .search_adv .form_1 {height: 464px}
+   .search_adv .form_2 {height: 268px}
+   .search_adv .form_3 {height: 218px !important}
+   .search_adv .form_4 {height: 290px}
+   .search_adv .form_5 {height: 106px; margin-top:10px;}
+   .search_adv .form_6 {height: 106px; margin-top:10px;}
+   .search_adv .form {height: 54px}
+.search_adv form .text {background: #fff; color: #333; font-family: tahoma, verdana; border: 1px #999 solid}
+.search_adv form input.text {font-size: 11px; padding: 3px 4px 4px 4px}
+.search_adv form .submit {width: 160px; height: 22px; font-weight: bold}
+.search_adv form select {font-size: 13px; padding: 1px 0}
+.search_adv form * {position: absolute}
+.search_adv form p {font-family: tahoma, verdana; font-size: 23px; top: 14px; left: 20px}
+.search_adv form i {font-family: tahoma, verdana; font-size: 9px; font-style: normal}
+.search_adv form u {text-decoration: none}
+.search_adv .form_1 .el_1 {width: 285px; top: 43px}
+.search_adv .form_1 .el_2 {width: 150px; top: 43px; left: 375px}
+.search_adv .form_1 .el_3 {width: 60px; top: 80px; left: 375px}
+.search_adv .form_1 .el_4 {width: 60px; top: 80px; left: 475px}
+.search_adv .form_1 .el_5 {width: 160px; top: 115px; left: 110px}
+.search_adv .form_1 .el_6 {width: 160px; top: 245px; left: 110px}
+.search_adv .form_1 .el_7 {width: 160px; top: 154px; left: 110px}
+.search_adv .form_1 .el_8 {width: 160px; top: 193px; left: 110px}
+.search_adv .form_1 .el_9 {width: 150px; top: 115px; left: 375px}
+.search_adv .form_1 .el_10 {width: 150px; top: 154px; left: 375px}
+.search_adv .form_1 .el_11 {width: 82px; top: 375px; left: 110px}
+.search_adv .form_1 .el_12 {width: 60px; top: 375px; left: 210px}
+.search_adv .form_1 .el_13 {width: 65px; top: 375px; left: 320px}
+.search_adv .form_1 .el_14 {width: 82px; top: 410px; left: 110px}
+.search_adv .form_1 .el_15 {width: 50px; top: 410px; left: 210px}
+.search_adv .form_1 .el_16 {width: 65px; top: 410px; left: 320px}
+.search_adv .form_1 .el_17 {width: 160px; top: 462px; left: 110px}
+.search_adv .form_1 .el_18 {top: 462px; left: 375px}
+.search_adv .form_1 .el_19 {width: 248px; height: 124px; top: 248px; left: 287px}
+   .search_adv .form_1 .el_19 * {font-family: tahoma, verdana; font-size: 10px; font-weight: normal; display: block; position: static}
+   .search_adv .form_1 .el_19 b {color: #777}
+   .search_adv .form_1 #genre_and_desc {color: #777; display: none; position: absolute; top: 104px; left: 0}
+   .search_adv .form_1 .el_19 div {width: 248px; text-indent: 20px; position: absolute; bottom: 28px; left: 0}
+   .search_adv .form_1 .el_19 input {background: none; width: 14px; height: 14px; border: none; display: none; position: absolute; left: 0; padding: 0}
+.search_adv .form_1 .txt_1 {top: 65px}
+.search_adv .form_1 .txt_2 {top: 46px; right: 196px}
+.search_adv .form_1 .txt_3 {top: 83px; right: 205px}
+.search_adv .form_1 .txt_4 {top: 85px; right: 186px}
+.search_adv .form_1 .txt_5 {top: 85px; right: 86px}
+.search_adv .form_1 .txt_6 {top: 118px}
+.search_adv .form_1 .txt_7 {top: 248px}
+.search_adv .form_1 .txt_8 {top: 157px}
+.search_adv .form_1 .txt_9 {top: 196px}
+.search_adv .form_1 .txt_10 {top: 118px; right: 196px}
+.search_adv .form_1 .txt_11 {top: 157px; right: 196px}
+.search_adv .form_1 .txt_12 {top: 137px; left: 375px}
+.search_adv .form_1 .txt_13 {top: 176px; left: 375px}
+.search_adv .form_1 .txt_14 {top: 378px}
+.search_adv .form_1 .txt_15 {top: 415px; left: 309px}
+.search_adv .form_1 .txt_16 {top: 413px}
+.search_adv .form_1 .txt_17 {top: 415px; left: 198px}
+.search_adv .form_1 .txt_18 {top: 415px; left: 276px}
+.search_adv .form_1 .txt_19 {top: 415px; left: 309px}
+.search_adv .form_1 .txt_20 {top: 465px}
+
+.search_adv .form_2 .el_1 {width: 285px; top: 43px}
+.search_adv .form_2 .el_2 {width: 150px; top: 43px; left: 375px}
+.search_adv .form_2 .el_3 {width: 195px; top: 105px; left: 110px}
+.search_adv .form_2 .el_4 {width: 160px; top: 105px; left: 375px}
+.search_adv .form_2 .el_5 {width: 195px; top: 167px; left: 110px}
+.search_adv .form_2 .el_6 {width: 205px; top: 229px; left: 110px}
+.search_adv .form_2 .el_7 {width: 205px; top: 266px; left: 110px}
+.search_adv .form_2 .el_8 {width: 160px; top: 266px; left: 375px}
+.search_adv .form_2 .txt_1 {top: 65px}
+.search_adv .form_2 .txt_2 {top: 46px; right: 196px}
+.search_adv .form_2 .txt_3 {top: 65px; left: 375px}
+.search_adv .form_2 .txt_4 {top: 108px}
+.search_adv .form_2 .txt_5 {top: 108px; right: 196px}
+.search_adv .form_2 .txt_6 {width: 70px; top: 162px}
+.search_adv .form_2 .txt_7 {top: 189px; left: 110px}
+.search_adv .form_2 .txt_8 {top: 232px}
+.search_adv .form_2 .txt_9 {top: 269px}
+/*
+.search_adv .form_2 .el_1 {width: 285px; top: 43px}
+.search_adv .form_2 .el_2 {width: 150px; top: 43px; left: 375px}
+.search_adv .form_2 .el_3 {width: 60px; top: 80px; left: 375px}
+.search_adv .form_2 .el_4 {width: 60px; top: 80px; left: 475px}
+.search_adv .form_2 .el_5 {width: 195px; top: 115px; left: 110px}
+.search_adv .form_2 .el_6 {width: 160px; top: 115px; left: 375px}
+.search_adv .form_2 .el_7 {width: 195px; top: 177px; left: 110px}
+.search_adv .form_2 .el_8 {width: 205px; top: 239px; left: 110px}
+.search_adv .form_2 .el_9 {width: 205px; top: 276px; left: 110px}
+.search_adv .form_2 .el_10 {width: 160px; top: 276px; left: 375px}
+.search_adv .form_2 .txt_1 {top: 65px}
+.search_adv .form_2 .txt_2 {top: 46px; right: 196px}
+.search_adv .form_2 .txt_3 {top: 65px; left: 375px}
+.search_adv .form_2 .txt_4 {top: 83px; right: 195px}
+.search_adv .form_2 .txt_5 {top: 85px; right: 182px}
+.search_adv .form_2 .txt_6 {top: 85px; right: 86px}
+.search_adv .form_2 .txt_7 {top: 118px}
+.search_adv .form_2 .txt_8 {top: 118px; right: 196px}
+.search_adv .form_2 .txt_9 {width: 70px; top: 172px}
+.search_adv .form_2 .txt_10 {top: 199px; left: 110px}
+.search_adv .form_2 .txt_11 {top: 242px}
+.search_adv .form_2 .txt_12 {top: 279px}
+*/
+
+.search_adv .form_3 .check {background: none; width: 14px; height: 14px; border: none; padding: 0}
+.search_adv .form_3 .el_1 {width: 285px; top: 43px}
+.search_adv .form_3 .el_2 {top: 100px}
+.search_adv .form_3 .el_3 {top: 125px}
+.search_adv .form_3 .el_4 {top: 150px}
+.search_adv .form_3 .el_5 {top: 175px}
+.search_adv .form_3 .el_6 {top: 100px; left: 250px}
+.search_adv .form_3 .el_7 {top: 125px; left: 250px}
+.search_adv .form_3 .el_8 {top: 150px; left: 250px}
+.search_adv .form_3 .el_9 {top: 175px; left: 250px}
+.search_adv .form_3 .el_10 {top: 200px;}
+.search_adv .form_3 .el_11 {top: 200px; left: 250px}
+.search_adv .form_3 .el_13 {top: 225px;}
+.search_adv .form_3 .el_12 {top: 43px; left: 375px}
+.search_adv .form_3 .txt_1 {top: 65px}
+.search_adv .form_3 .txt_2 {top: 99px; left: 40px}
+.search_adv .form_3 .txt_3 {top: 124px; left: 40px}
+.search_adv .form_3 .txt_4 {top: 149px; left: 40px}
+.search_adv .form_3 .txt_5 {top: 174px; left: 40px}
+.search_adv .form_3 .txt_6 {top: 99px; left: 270px}
+.search_adv .form_3 .txt_7 {top: 124px; left: 270px}
+.search_adv .form_3 .txt_8 {top: 149px; left: 270px}
+.search_adv .form_3 .txt_9 {top: 174px; left: 270px}
+.search_adv .form_3 .txt_10 {top: 199px; left: 40px;}
+.search_adv .form_3 .txt_11 {top: 199px; left: 270px}
+.search_adv .form_3 .txt_13 {top: 224px; left: 40px}
+
+.search_adv .form_4 .el_0 {width: 240px; top: 43px}
+.search_adv .form_4 .el_00 {width: 240px; top: 127px}
+.search_adv .form_4 .el_1 {width: 240px; top: 85px}
+.search_adv .form_4 .el_2 {width: 240px; top: 85px; left: 285px}
+.search_adv .form_4 .el_3 {width: 160px; top: 189px; left: 110px}
+.search_adv .form_4 .el_4 {width: 60px; top: 189px; left: 375px}
+.search_adv .form_4 .el_5 {width: 60px; top: 189px; left: 475px}
+.search_adv .form_4 .el_6 {width: 160px; top: 226px; left: 110px}
+.search_adv .form_4 .el_7 {width: 150px; top: 226px; left: 375px}
+.search_adv .form_4 .el_8 {width: 150px; top: 288px; left: 110px}
+.search_adv .form_4 .el_9 {width: 160px; top: 288px; left: 375px}
+.search_adv .form_4 .txt_0 {top: 65px}
+.search_adv .form_4 .txt_00 {top: 149px}
+.search_adv .form_4 .txt_1 {top: 107px}
+.search_adv .form_4 .txt_2 {top: 107px; left: 285px}
+.search_adv .form_4 .txt_3 {top: 192px}
+.search_adv .form_4 .txt_4 {top: 192px; right: 205px}
+.search_adv .form_4 .txt_5 {top: 194px; left: 356px}
+.search_adv .form_4 .txt_6 {top: 194px; left: 457px}
+.search_adv .form_4 .txt_7 {top: 229px}
+.search_adv .form_4 .txt_8 {top: 229px; right: 205px}
+.search_adv .form_4 .txt_9 {top: 291px}
+
+.search_adv .form_5 .el_1 {width: 285px; top: 43px}
+.search_adv .form_5 .el_2 {width: 285px; top: 69px}
+.search_adv .form_5 .el_3 {width: 285px; top: 95px}
+.search_adv .form_5 .txt_1 {top: 117px}
+.search_adv .form_5 .txt_2 {width: 160px; font-family: tahoma, verdana; text-align: center; top: 22px; right: 20px}
+.search_adv .form_5 .txt_2 a {color: #333; text-decoration: underline; position: static}
+.search_adv .form_5 .submit {top: 95px; left: 375px}
+.search_adv .form_5 .loader {background: url(/images/loaders/dark.gif); width: 16px; height: 16px; overflow: hidden; display: block; top: 98px; left: 338px}
+.search_adv .form_5 .close {display:inline; width:11px; height:11px;     margin-top: 5px; background: url(/images/bg_close.gif); display:none; margin-left:300px;}
+
+.search_adv .form_6 .el_1 {width: 97px; top: 43px}
+.search_adv .form_6 .el_2 {width: 97px; top: 69px}
+.search_adv .form_6 .el_3 {width: 97px; top: 95px}
+.search_adv .form_6 .el_4 {width: 182px; top: 43px; left: 121px}
+.search_adv .form_6 .el_5 {width: 182px; top: 69px; left: 121px}
+.search_adv .form_6 .el_6 {width: 182px; top: 95px; left: 121px}
+.search_adv .form_6 .txt_1 {top: 117px}
+.search_adv .form_6 .txt_2 {width: 160px; font-family: tahoma, verdana; text-align: center; top: 22px; right: 20px}
+.search_adv .form_6 .txt_2 a {color: #333; text-decoration: underline; position: static}
+.search_adv .form_6 .submit {top: 95px; left: 375px}
+.search_adv .form_6 .loader {background: url(/images/loaders/dark.gif); width: 16px; height: 16px; overflow: hidden; display: block; top: 98px; left: 338px}
+.search_adv .form_6 .close {display:inline; width:11px; height:11px;     margin-top: 5px; background: url(/images/bg_close.gif); display:none;}
+.search_adv .form input {width: 285px; top: 43px}
+.search_adv .form .submit {width: 160px; top: 43px; left: 375px}
+.search_adv .form i {top: 65px}
+.user_search .profile_name {height:auto; color: #333; font-size: 12px; margin: 0; padding-top: 1px !important; padding-bottom: 2px !important;font-weight:normal !important;}
+.user_search .profile_name s {top: 2px}
+/* shab/search_form_3.html */
+#searchAdv .form_6 input[type="text"] {float: left; margin-right: 3px; position: static; margin-bottom: 8px; width: 182px;}
+#searchAdv .form_6 select{float: left; margin-right: 3px; position: static; margin-bottom: 8px; width: 97px;}
+#searchAdv .form_6 div{position: static; }
+#btn_search_6[disabled] {opacity:0.8; color:#666; cursor:default;}
+#searchAdv .ac_results {width: 188px !important; border: 2px #999 solid !important; margin-left: 0 !important; margin-top: 1px !important}
+#searchAdv .ac_results * {font-size: 11px !important}
+#searchAdv .form_5 input[type="text"] {width: 285px}
+#searchAdv .form_5 div {position: static; margin-bottom: 8px; width: 285px; height: 23px}
+#searchAdv input[disabled] {opacity: 0.6; color: #666; cursor: default}
+select[multiple="multiple"] option {position: static;}

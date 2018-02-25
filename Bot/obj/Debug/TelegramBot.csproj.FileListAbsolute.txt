@@ -1,0 +1,60 @@
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Bot.exe.config
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Bot.exe
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Bot.pdb
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\obj\Debug\Bot.exe
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\Bot\obj\Debug\Bot.pdb
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.exe.config
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.exe
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.pdb
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\Bot.exe
+C:\Users\Даниил\Downloads\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\Bot.pdb
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Bot.exe
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Bot.pdb
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\obj\Debug\Bot.exe
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\Bot\obj\Debug\Bot.pdb
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.exe.config
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.exe
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.pdb
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.dll
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.xml
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\obj\Debug\Bot.exe
+C:\Users\mmmvi\Documents\GitHub\kinopoisk-bot\Bot\obj\Debug\Bot.pdb
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.exe.config
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.exe
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Bot.pdb
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.dll
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.dll
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.dll
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Newtonsoft.Json.xml
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\System.Net.Http.Formatting.xml
+B:\GitHub\kinopoisk-bot\Bot\bin\Debug\Telegram.Bot.xml
+B:\GitHub\kinopoisk-bot\Bot\obj\Debug\TelegramBot.csprojResolveAssemblyReference.cache
+B:\GitHub\kinopoisk-bot\Bot\obj\Debug\Bot.exe
+B:\GitHub\kinopoisk-bot\Bot\obj\Debug\Bot.pdb

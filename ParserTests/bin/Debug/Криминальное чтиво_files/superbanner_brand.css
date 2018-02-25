@@ -1,0 +1,13 @@
+@charset "windows-1251";
+
+.superb {background: #f2f2f2; width: 850px; height: 242px; position: relative; z-index: 10}
+.superb table {width: 850px; border-collapse: collapse; position: absolute; top: 0; left: 0; z-index: 5}
+.superb * {list-style: none; margin: 0; padding: 0}
+.superb .link {width: 850px; height: 225px; display: block; position: absolute; top: -5px; left: 0; z-index: 820}
+.superb .list {background: #fff; width: 100%; position: absolute; top: 225px; left: 0}
+   .superb .list ul {background: #fff url(/images/corner-main.gif) 564px 0 no-repeat; width: 580px; height: 16px; font-size: 10px; overflow: hidden}
+   .superb .list li {background: url(/images/bullet.gif) 0 6px no-repeat; width: 167px; color: #f60; float: left; margin: 0 5px 0 11px; padding-left: 9px}
+   .superb .list li.center {margin-right: 4px}
+   .superb .list li a {color: #f60; text-decoration: underline}
+   .superb .list li a:hover {text-decoration: none}
+   .superb .list span {background: #999; width: 564px; height: 1px; overflow: hidden; clear: both; display: block}

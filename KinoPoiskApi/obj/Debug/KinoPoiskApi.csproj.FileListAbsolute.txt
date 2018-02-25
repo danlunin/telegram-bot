@@ -1,0 +1,17 @@
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\KinoPoiskParser.dll
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\KinoPoiskParser.pdb
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\AngleSharp.dll
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\RestSharp.dll
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\AngleSharp.xml
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\bin\Debug\RestSharp.xml
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\obj\Debug\KinoPoiskParser.dll
+B:\GitHub\kinopoisk-bot\KinoPoiskApi\obj\Debug\KinoPoiskParser.pdb
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\KinoPoiskParser.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\KinoPoiskParser.pdb
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\AngleSharp.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\RestSharp.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\AngleSharp.xml
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\bin\Debug\RestSharp.xml
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\obj\Debug\KinoPoiskApi.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\obj\Debug\KinoPoiskParser.dll
+C:\Users\Даниил\Documents\kinopoisk-bot\kinopoisk-bot\KinoPoiskApi\obj\Debug\KinoPoiskParser.pdb

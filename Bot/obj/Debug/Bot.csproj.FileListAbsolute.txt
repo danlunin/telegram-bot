@@ -1,0 +1,10 @@
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.exe.config
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.exe
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Bot.pdb
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\FilmAdvisor.exe
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\FilmAdvisor.pdb
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\Bot.exe
+C:\Users\mmmvi\Desktop\My folder\HomeWork\ЯТП\FilmAdvisor\FilmAdvisor\FilmAdvisor\Bot\obj\Debug\Bot.pdb

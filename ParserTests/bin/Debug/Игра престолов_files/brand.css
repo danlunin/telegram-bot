@@ -1,0 +1,36 @@
+@charset "windows-1251";
+
+#top {height: 297px}
+   #top .png_block {top: 210px}
+   #top_form {top: 210px}
+   #top .menu {top: 210px}
+   #top .brand {width: 850px; height: 210px; display: block}
+   #top .branding_flash {width: 850px; height: 210px; position: absolute; top: 0; left: 0}
+/*
+.country_flag {top: 0}
+.oscar_year_link {top: 0}
+.yandex ul {top: 0 !important}
+.personal_recom {height: 52px}
+.personal_recom table {top: 0}
+.search_results_top {margin-top: 2px !important}
+.oscar_top_inserts, .lightOrangeRight {top: 0 !important}
+.view_seans {display: none}
+.view_cinema_map2 {margin: 20px 0 10px 0 !important}
+.viewPlaceMap {padding-top: 0 !important}
+.viewPlaceMapBlock {margin-top: -2px !important}
+
+.view_seans_film .myBoardButton {top: 2px !important}
+.view_seans_film .selectCountry {top: 2px !important}
+.view_seans_film .selectCity {top: 2px !important}
+.view_seans_cinema .myBoardButton {top: 12px !important}
+.view_seans_cinema .selectCountry {top: 12px !important}
+.view_seans_cinema .selectCity {top: 12px !important}
+.view_cinema_all .myBoardButton {top: 2px !important}
+.view_cinema_all .selectCountry {top: 2px !important}
+.view_cinema_all .selectCity {top: 2px !important}
+.view_seans_all .myBoardButton {top: 12px !important}
+.view_seans_all .selectCountry {top: 12px !important}
+.view_seans_all .selectCity {top: 12px !important}
+.view_seans_main .selectCountry {top: 2px !important}
+.view_seans_main .selectCity {top: 2px !important}
+*/
