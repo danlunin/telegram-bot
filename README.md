@@ -1,2 +1,2 @@
 # telegram-bot
-Telegram Bot for finding films by preferences. Bot advises are based on Kinopoisk API.
+Telegram Bot for finding films by preferences. Bot's advises are based on Kinopoisk API.
